@@ -27,7 +27,7 @@ require (
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/satori/go.uuid v0.0.0-20180103174451-36e9d2ebbde5 // indirect
 	go.opencensus.io v0.19.2 // indirect
-	golang.org/x/image v0.0.0-20190321063152-3fc05d484e9f
+	golang.org/x/image v0.5.0
 	golang.org/x/oauth2 v0.0.0-20190319182350-c85d3e98c914 // indirect
 	google.golang.org/appengine v1.5.0 // indirect
 	google.golang.org/genproto v0.0.0-20190321212433-e79c0c59cdb5 // indirect
